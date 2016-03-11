@@ -1,0 +1,41 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="General.master.cs" Inherits="ClientWeb.General" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <link href="./Agence.css" rel="stylesheet" type="text/css" /> 
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
+    <link href='https://fonts.googleapis.com/css?family=Roboto:500' rel='stylesheet' type='text/css' />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+
+
+
+    <div id ="layout" style="background-color : black; border-radius: 10px 5px 10px 5px;">
+        <center><h1 style="color:white">Biens Immobiliers</h1></center>
+        <center>
+            <table>
+                <tr>
+                    <td><a href="./Default.aspx">Recherche</a></td>
+                    <td><a href="./Administration.aspx">Administration</a></td>
+                </tr>
+            </table>
+        </center>
+    </div>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+        <link href="./Agence.css" rel="stylesheet" type="text/css" /> 
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <link href="~/Agence.css" rel="stylesheet" type="text/css" />
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                <link href="~/Agence.css" rel="stylesheet" type="text/css" /> 
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
