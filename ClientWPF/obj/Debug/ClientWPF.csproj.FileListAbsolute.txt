@@ -11,3 +11,39 @@ C:\Tmp\AgenceImmobiliere\ClientWPF\obj\Debug\ClientWPF.Properties.Resources.reso
 C:\Tmp\AgenceImmobiliere\ClientWPF\obj\Debug\ClientWPF.csproj.GenerateResource.Cache
 C:\Tmp\AgenceImmobiliere\ClientWPF\obj\Debug\ClientWPF.exe
 C:\Tmp\AgenceImmobiliere\ClientWPF\obj\Debug\ClientWPF.pdb
+D:\Ecole\aspdotnet\Projet - Agence immobilière\ClientWPF\bin\Debug\ClientWPF.exe.config
+D:\Ecole\aspdotnet\Projet - Agence immobilière\ClientWPF\obj\Debug\ClientWPF.exe
+D:\Ecole\aspdotnet\Projet - Agence immobilière\ClientWPF\obj\Debug\ClientWPF.pdb
+D:\Ecole\aspdotnet\Projet - Agence immobilière\ClientWPF\bin\Debug\ClientWPF.exe
+D:\Ecole\aspdotnet\Projet - Agence immobilière\ClientWPF\bin\Debug\ClientWPF.pdb
+D:\Ecole\aspdotnet\Projet - Agence immobilière\ClientWPF\obj\Debug\ClientWPF.csprojResolveAssemblyReference.cache
+D:\Ecole\aspdotnet\Projet - Agence immobilière\ClientWPF\obj\Debug\MainWindow.baml
+D:\Ecole\aspdotnet\Projet - Agence immobilière\ClientWPF\obj\Debug\MainWindow.g.cs
+D:\Ecole\aspdotnet\Projet - Agence immobilière\ClientWPF\obj\Debug\App.g.cs
+D:\Ecole\aspdotnet\Projet - Agence immobilière\ClientWPF\obj\Debug\ClientWPF_MarkupCompile.cache
+D:\Ecole\aspdotnet\Projet - Agence immobilière\ClientWPF\obj\Debug\ClientWPF.g.resources
+D:\Ecole\aspdotnet\Projet - Agence immobilière\ClientWPF\obj\Debug\ClientWPF.Properties.Resources.resources
+D:\Ecole\aspdotnet\Projet - Agence immobilière\ClientWPF\obj\Debug\ClientWPF.csproj.GenerateResource.Cache
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ClientWPF\bin\Debug\ClientWPF.exe.config
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ClientWPF\obj\Debug\ClientWPF.exe
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ClientWPF\obj\Debug\ClientWPF.pdb
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ClientWPF\bin\Debug\ClientWPF.exe
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ClientWPF\bin\Debug\ClientWPF.pdb
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ClientWPF\obj\Debug\MainWindow.baml
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ClientWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ClientWPF\obj\Debug\App.g.cs
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ClientWPF\obj\Debug\ClientWPF_MarkupCompile.cache
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ClientWPF\obj\Debug\ClientWPF.g.resources
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ClientWPF\obj\Debug\ClientWPF.Properties.Resources.resources
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ClientWPF\obj\Debug\ClientWPF.csproj.GenerateResource.Cache
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ClientWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ClientWPF\obj\Debug\ClientWPF_MarkupCompile.lref
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ClientWPF\obj\Debug\Simple.g.cs
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ClientWPF\obj\Debug\Simple.baml
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ClientWPF\obj\Debug\ClientWPF.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ClientWPF\obj\Debug\Avancee.g.cs
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ClientWPF\obj\Debug\Avancee.baml
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ClientWPF\obj\Debug\Ajouter.g.cs
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ClientWPF\obj\Debug\Ajouter.baml
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ClientWPF\obj\Debug\Modifier.g.cs
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ClientWPF\obj\Debug\Modifier.baml

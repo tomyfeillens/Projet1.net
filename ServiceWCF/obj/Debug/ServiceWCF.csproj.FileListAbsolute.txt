@@ -28,3 +28,18 @@ D:\Ecole\aspdotnet\Projet - Agence immobilière\ServiceWCF\bin\System.Data.SQLit
 D:\Ecole\aspdotnet\Projet - Agence immobilière\ServiceWCF\obj\Debug\ServiceWCF.csprojResolveAssemblyReference.cache
 D:\Ecole\aspdotnet\Projet - Agence immobilière\ServiceWCF\obj\Debug\ServiceWCF.dll
 D:\Ecole\aspdotnet\Projet - Agence immobilière\ServiceWCF\obj\Debug\ServiceWCF.pdb
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ServiceWCF\bin\SQL\agence.db
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ServiceWCF\bin\ServiceWCF.dll.config
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ServiceWCF\bin\ServiceWCF.dll
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ServiceWCF\bin\ServiceWCF.pdb
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ServiceWCF\bin\EntityFramework.dll
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ServiceWCF\bin\EntityFramework.SqlServer.dll
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ServiceWCF\bin\System.Data.SQLite.dll
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ServiceWCF\bin\System.Data.SQLite.EF6.dll
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ServiceWCF\bin\System.Data.SQLite.Linq.dll
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ServiceWCF\bin\EntityFramework.xml
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ServiceWCF\bin\EntityFramework.SqlServer.xml
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ServiceWCF\bin\System.Data.SQLite.xml
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ServiceWCF\obj\Debug\ServiceWCF.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ServiceWCF\obj\Debug\ServiceWCF.dll
+C:\Users\Thomas\Documents\Visual Studio 2015\Projects\dotnet\Projet - Agence immobilière\ServiceWCF\obj\Debug\ServiceWCF.pdb
